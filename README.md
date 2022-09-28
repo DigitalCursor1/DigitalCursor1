@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###Current Student at MSOE. ![MSOE Logo](https://upload.wikimedia.org/wikipedia/commons/6/60/MSOE-U-BK_RD-web.jpg)
+###Current Student at MSOE.
+[MSOE Logo](https://upload.wikimedia.org/wikipedia/commons/6/60/MSOE-U-BK_RD-web.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/MSOE-U-BK_RD-web.jpg" width="200" height="200" />
 ![My stats](https://github-readme-stats.vercel.app/api?username=DigitalCursor1&show_icons=true&count_private=true&hide_border=true&theme=merko)
